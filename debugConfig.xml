@@ -13,6 +13,10 @@
 <PKG name="Lab2" aid="22 33 44 55 66" major="1" minor="0">
 <APPLET aid="22 33 44 55 66 00" instanceaid="" parameter="" authority="" privileges="" index="-13088" name="TransientPersistent"/>
 </PKG>
+<PKG name="Lab2Ex" aid="22 33 44 55 67" major="1" minor="0">
+<APPLET aid="22 33 44 55 67 00" instanceaid="" parameter="" authority="" privileges="" index="30496" name="PINAuth"/>
+<APPLET aid="22 33 44 55 67 01" instanceaid="" parameter="" authority="" privileges="" index="21976" name="TempBufferInfo"/>
+</PKG>
 <Libs/>
 </USER>
 <DebugInfo>
