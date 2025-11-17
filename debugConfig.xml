@@ -10,6 +10,9 @@
 <APPLET aid="11 22 33 44 56 02" instanceaid="" parameter="" authority="" privileges="" index="6360" name="Bai3"/>
 <APPLET aid="11 22 33 44 56 03" instanceaid="" parameter="" authority="" privileges="" index="13320" name="Bai4"/>
 </PKG>
+<PKG name="Lab2" aid="22 33 44 55 66" major="1" minor="0">
+<APPLET aid="22 33 44 55 66 00" instanceaid="" parameter="" authority="" privileges="" index="-13088" name="TransientPersistent"/>
+</PKG>
 <Libs/>
 </USER>
 <DebugInfo>

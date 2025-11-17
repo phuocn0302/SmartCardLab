@@ -1,4 +1,14 @@
 <jumpRecord>
-<prevNodes/>
-<nextRecord/>
+<prevNodes>
+<jnode>
+<fileName>G:\Study\SmartCard\Lab\src\Lab1Ex\Bai2.java</fileName>
+<line>44</line>
+</jnode>
+</prevNodes>
+<nextRecord>
+<jnode>
+<fileName>C:\JavaCardKit\SDK\Tools\JCIDE\apis\jc222\javacard\framework\APDU.java</fileName>
+<line>795</line>
+</jnode>
+</nextRecord>
 </jumpRecord>
