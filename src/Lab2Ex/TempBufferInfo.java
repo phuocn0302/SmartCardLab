@@ -57,6 +57,7 @@ public class TempBufferInfo extends Applet
 			ISOException.throwIt(ISO7816.SW_DATA_INVALID);
 		}
 		
+		apdu.setIncomingAndReceive();
 		Util.arrayCopy(tempBuffer, (short) 0, buf, (short) 0, (short) tempBuffer.length);
 		apdu.setOutgoingAndSend((short) 0, (short) tempBuffer.length);
 		

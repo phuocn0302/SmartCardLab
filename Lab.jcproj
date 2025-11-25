@@ -17,6 +17,9 @@
 <APPLET aid="22 33 44 55 67 00" instanceaid="" parameter="" authority="" privileges="" index="27976" name="PINAuth"/>
 <APPLET aid="22 33 44 55 67 01" instanceaid="" parameter="" authority="" privileges="" index="17416" name="TempBufferInfo"/>
 </PKG>
+<PKG name="Lab4Ex" aid="44 55 66 77 89" major="1" minor="0">
+<APPLET aid="44 55 66 77 89 00" instanceaid="" parameter="" authority="" privileges="" index="6968" name="GradeManager"/>
+</PKG>
 <Libs/>
 </USER>
 </JavaCardProject>
